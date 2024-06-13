@@ -3,4 +3,4 @@
 
 These slides explore the data, hypothesis, design, and significance of the research concerning the relationship between the CWI and UPR;
 
-<iframe src="https://docs.google.com/gview?url=http://321-Space%20Farmers%20(1).pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<object data="file:///Users/fatimakhawaja/Downloads/321-Space%20Farmers%20(1).pdf" width="1000" height="1000" type='application/pdf'></object>
