@@ -1,4 +1,4 @@
-# Investigating the Relationship between the Cell Wall Integrity Pathway and Unfolded Protein Response in Arabidopsis thaliana
+# Project Overview: Investigating the Relationship between the Cell Wall Integrity Pathway and Unfolded Protein Response in Arabidopsis thaliana
 
 ## Abstract 
 
